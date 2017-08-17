@@ -1,4 +1,8 @@
 
+Hustlin is a project I created to let me know when there is a home baseball game happening. I get notifications every morning so I can plan my day around not using public transportation before, after, or during baseball games.
+
+The repo contains the code for that JSON API and is powered by a Lambda function that reads from a DynamoDB table. The code for the front-end react app can be found at [bdougie/hustlin-react](https://github.com/bdougie/hustlin-react) and mobile app at [bdougie/HusslnMobile](https://github.com/bdougie/HusslnMobile). 
+
 # AWS Node Scheduled Emails
 
 This is an example of creating a function that runs as a cron job using the serverless `schedule` event. It retrieves weather information at 10am (UTC) and emails it to a predefined recipient. For more information on `schedule` event check out the Serverless docs on [schedule](https://serverless.com/framework/docs/providers/aws/events/schedule/).
