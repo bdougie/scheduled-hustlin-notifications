@@ -1,7 +1,7 @@
 
 Hustlin is a project I created to let me know when there is a home baseball game happening. I get notifications every morning so I can plan my day around not using public transportation before, after, or during baseball games.
 
-The repo contains the code for that JSON API and is powered by a Lambda function that reads from a DynamoDB table. The code for the front-end react app can be found at [bdougie/hustlin-react](https://github.com/bdougie/hustlin-react) and mobile app at [bdougie/HusslnMobile](https://github.com/bdougie/HusslnMobile). 
+The code for the front-end react app can be found at [bdougie/hustlin-react](https://github.com/bdougie/hustlin-react) and mobile app at [bdougie/HusslnMobile](https://github.com/bdougie/HusslnMobile). 
 
 # AWS Node Scheduled Emails
 
